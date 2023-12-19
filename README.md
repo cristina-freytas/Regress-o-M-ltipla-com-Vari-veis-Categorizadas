@@ -1,0 +1,1 @@
+# Regress-o-M-ltipla-com-Vari-veis-Categorizadas
