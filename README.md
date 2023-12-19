@@ -1,1 +1,1 @@
-# Regressao Multipla com Variaveis Categorizadas
+Regressao-Multipla-com-Modelagem-de-Variaveis-Categorizadas
